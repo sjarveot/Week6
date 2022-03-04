@@ -1,0 +1,15 @@
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\bin\Debug\net5.0\StringReplace.exe
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\bin\Debug\net5.0\StringReplace.deps.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\bin\Debug\net5.0\StringReplace.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\bin\Debug\net5.0\StringReplace.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\bin\Debug\net5.0\ref\StringReplace.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\bin\Debug\net5.0\StringReplace.pdb
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\StringReplace.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\StringReplace.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\StringReplace.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\ref\StringReplace.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\StringReplace.pdb
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringReplace\obj\Debug\net5.0\StringReplace.genruntimeconfig.cache

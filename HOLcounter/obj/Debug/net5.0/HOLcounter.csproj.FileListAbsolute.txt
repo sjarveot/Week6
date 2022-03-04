@@ -1,0 +1,16 @@
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\bin\Debug\net5.0\HOLcounter.exe
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\bin\Debug\net5.0\HOLcounter.deps.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\bin\Debug\net5.0\HOLcounter.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\bin\Debug\net5.0\HOLcounter.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\bin\Debug\net5.0\HOLcounter.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\bin\Debug\net5.0\ref\HOLcounter.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\bin\Debug\net5.0\HOLcounter.pdb
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.csproj.AssemblyReference.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\ref\HOLcounter.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.pdb
+C:\Users\siim.jarveots\source\repos\StringandArrays\HOLcounter\obj\Debug\net5.0\HOLcounter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.exe
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.deps.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.runtimeconfig.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.runtimeconfig.dev.json
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\ref\StringandArrays.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\bin\Debug\net5.0\StringandArrays.pdb
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.csproj.AssemblyReference.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.AssemblyInfoInputs.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.AssemblyInfo.cs
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.csproj.CoreCompileInputs.cache
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\ref\StringandArrays.dll
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.pdb
+C:\Users\siim.jarveots\source\repos\StringandArrays\StringandArrays\obj\Debug\net5.0\StringandArrays.genruntimeconfig.cache
